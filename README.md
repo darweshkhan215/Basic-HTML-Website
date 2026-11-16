@@ -4,15 +4,15 @@ A simple multi page basic website built using HTML only. The website consists of
 
 ## Project URL
 
-[https://roadmap.sh/projects/basic-html-website](https://roadmap.sh/projects/basic-html-website)
+(https://roadmap.sh/projects/basic-html-website)
 
 ## Live Demo
 
-Add your GitHub Pages URL here after deployment.
+(https://github.com/darweshkhan215/Basic-HTML-Website)
 
 ## GitHub Repository
 
-Add your GitHub repository URL here.
+(https://github.com/darweshkhan215/Basic-HTML-Website)
 
 ## Technologies Used
 
